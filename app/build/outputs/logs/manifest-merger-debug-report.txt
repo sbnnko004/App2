@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/d21ea564284cfbb66eedabd2a7974622/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/32d7aac3a1ee3ea163633b9b9a64d48b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:17:1-47:12
+MERGED from [com.android.support:design:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/aae83ee9dcddc1e8d7d6c3e3ef83b26f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/30667f74a9c487e15a8aa0112f506bd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/laptop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/05ca4582986d32a688c4192b96cbc540/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/16c4109fe5bc3898e5ff5eddcc7a9bb9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/34651c5e46e6e2219aa3974e831032fb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e8f2e90d19bc23f6e8523d1e6b7a2b7f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/56821077aea9553fb923659cc8e2e89a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5b799ebfb545f291b67ffcf5d67da4e9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/41c3c4db79df39c851027af69446d57f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/5321b33686e5831fd4d0b6788856cda2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/e637e9badb725a202bf3ee68b1276374/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/39bfcf78dffa5ad85ee4c34c4f0b0038/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/1c57532dc3d65ecf2383136958c87709/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/18c74f3979bffe4a8aac5da631fb32dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/f2fd8ab8bf8312f2a746067fa0ce7c01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/146797020483d8a9c32051c507a759c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/39224252b6f6a4a1f1e59192ce88435b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/fbab7067b769c389df0bf2c38d7ee6a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/5275ef377fcc75e0d30344bd8b858108/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/b27edfd40a580692fc96eb17786a66fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/a6f92f34863a99ca6eb97868b5da9599/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ca04dfa07b536ce51010dc23c73ab8b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/6c69d321f34c275ecb02d00602ebb724/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/55ffb53bd34ca43b42119d8522af0b43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/096994dda7b3da83abe2489e7dc826a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/9c7dc4d8956082e81b826b06d649255d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/388bb2cbe1170ac15ca17d8d29594c83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/083d4f89cbbe1e1681a3c507f543c387/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c353d2d6846ef14551104fe8a9d127a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/12c8b43d6a6047f47b8fab357a026be6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/15c8d038fa9a0c67c9141ff4f1cdcbbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/6e60f09e41d7912ddbba47de9471013f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/9cc0fdc5c0b7d2a9383ba8e2b2c7371f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/92b66fee9870251d5e3b06307e84033f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/829d5c019e38159e436ae6bdaf19ab43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/b3549e32af357d19b753616fbf9b1ffb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2cbc154119cd45c88d2b852e4321f05a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49802ec785e4b7a0fb6d24950df957f3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/08f32e97a26d63a9fb00d0911b489c1b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/32d7aac3a1ee3ea163633b9b9a64d48b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/32d7aac3a1ee3ea163633b9b9a64d48b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:29:5-45:19
+MERGED from [com.android.support:design:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/aae83ee9dcddc1e8d7d6c3e3ef83b26f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/aae83ee9dcddc1e8d7d6c3e3ef83b26f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/laptop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/05ca4582986d32a688c4192b96cbc540/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/laptop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/05ca4582986d32a688c4192b96cbc540/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/16c4109fe5bc3898e5ff5eddcc7a9bb9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/16c4109fe5bc3898e5ff5eddcc7a9bb9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/34651c5e46e6e2219aa3974e831032fb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/34651c5e46e6e2219aa3974e831032fb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e8f2e90d19bc23f6e8523d1e6b7a2b7f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e8f2e90d19bc23f6e8523d1e6b7a2b7f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/56821077aea9553fb923659cc8e2e89a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/56821077aea9553fb923659cc8e2e89a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5b799ebfb545f291b67ffcf5d67da4e9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5b799ebfb545f291b67ffcf5d67da4e9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/e637e9badb725a202bf3ee68b1276374/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/e637e9badb725a202bf3ee68b1276374/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/39bfcf78dffa5ad85ee4c34c4f0b0038/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/39bfcf78dffa5ad85ee4c34c4f0b0038/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c353d2d6846ef14551104fe8a9d127a2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c353d2d6846ef14551104fe8a9d127a2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/12c8b43d6a6047f47b8fab357a026be6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/12c8b43d6a6047f47b8fab357a026be6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c353d2d6846ef14551104fe8a9d127a2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.waterusagediary.MainActivity
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.waterusagediary.Calculator
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:parentActivityName
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:22:13-55
+	android:label
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:20:13-39
+meta-data#android:support.PARENT_ACTIVITY
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:23:13-25:63
+	android:value
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:25:17-60
+	android:name
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:24:17-63
+activity#com.example.waterusagediary.DiaryEntries
+ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:27:9-59
+	android:name
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/d21ea564284cfbb66eedabd2a7974622/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/d21ea564284cfbb66eedabd2a7974622/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/32d7aac3a1ee3ea163633b9b9a64d48b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/32d7aac3a1ee3ea163633b9b9a64d48b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/aae83ee9dcddc1e8d7d6c3e3ef83b26f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/aae83ee9dcddc1e8d7d6c3e3ef83b26f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/30667f74a9c487e15a8aa0112f506bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/30667f74a9c487e15a8aa0112f506bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/laptop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/05ca4582986d32a688c4192b96cbc540/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/laptop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/05ca4582986d32a688c4192b96cbc540/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/16c4109fe5bc3898e5ff5eddcc7a9bb9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/16c4109fe5bc3898e5ff5eddcc7a9bb9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/34651c5e46e6e2219aa3974e831032fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/34651c5e46e6e2219aa3974e831032fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e8f2e90d19bc23f6e8523d1e6b7a2b7f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e8f2e90d19bc23f6e8523d1e6b7a2b7f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/56821077aea9553fb923659cc8e2e89a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/56821077aea9553fb923659cc8e2e89a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5b799ebfb545f291b67ffcf5d67da4e9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5b799ebfb545f291b67ffcf5d67da4e9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/41c3c4db79df39c851027af69446d57f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/41c3c4db79df39c851027af69446d57f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/5321b33686e5831fd4d0b6788856cda2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/5321b33686e5831fd4d0b6788856cda2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/e637e9badb725a202bf3ee68b1276374/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/e637e9badb725a202bf3ee68b1276374/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/39bfcf78dffa5ad85ee4c34c4f0b0038/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/39bfcf78dffa5ad85ee4c34c4f0b0038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/1c57532dc3d65ecf2383136958c87709/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/1c57532dc3d65ecf2383136958c87709/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/18c74f3979bffe4a8aac5da631fb32dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/18c74f3979bffe4a8aac5da631fb32dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/f2fd8ab8bf8312f2a746067fa0ce7c01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/f2fd8ab8bf8312f2a746067fa0ce7c01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/146797020483d8a9c32051c507a759c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/146797020483d8a9c32051c507a759c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/39224252b6f6a4a1f1e59192ce88435b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/39224252b6f6a4a1f1e59192ce88435b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/fbab7067b769c389df0bf2c38d7ee6a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/fbab7067b769c389df0bf2c38d7ee6a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/5275ef377fcc75e0d30344bd8b858108/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/5275ef377fcc75e0d30344bd8b858108/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/b27edfd40a580692fc96eb17786a66fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/b27edfd40a580692fc96eb17786a66fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/a6f92f34863a99ca6eb97868b5da9599/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/a6f92f34863a99ca6eb97868b5da9599/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ca04dfa07b536ce51010dc23c73ab8b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ca04dfa07b536ce51010dc23c73ab8b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/6c69d321f34c275ecb02d00602ebb724/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/6c69d321f34c275ecb02d00602ebb724/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/55ffb53bd34ca43b42119d8522af0b43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/55ffb53bd34ca43b42119d8522af0b43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/096994dda7b3da83abe2489e7dc826a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/096994dda7b3da83abe2489e7dc826a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/9c7dc4d8956082e81b826b06d649255d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/9c7dc4d8956082e81b826b06d649255d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/388bb2cbe1170ac15ca17d8d29594c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/388bb2cbe1170ac15ca17d8d29594c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/083d4f89cbbe1e1681a3c507f543c387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/083d4f89cbbe1e1681a3c507f543c387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c353d2d6846ef14551104fe8a9d127a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c353d2d6846ef14551104fe8a9d127a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/12c8b43d6a6047f47b8fab357a026be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/12c8b43d6a6047f47b8fab357a026be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/15c8d038fa9a0c67c9141ff4f1cdcbbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/15c8d038fa9a0c67c9141ff4f1cdcbbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/6e60f09e41d7912ddbba47de9471013f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/6e60f09e41d7912ddbba47de9471013f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/9cc0fdc5c0b7d2a9383ba8e2b2c7371f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/9cc0fdc5c0b7d2a9383ba8e2b2c7371f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/92b66fee9870251d5e3b06307e84033f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/92b66fee9870251d5e3b06307e84033f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/829d5c019e38159e436ae6bdaf19ab43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/829d5c019e38159e436ae6bdaf19ab43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/b3549e32af357d19b753616fbf9b1ffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/laptop/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/b3549e32af357d19b753616fbf9b1ffb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2cbc154119cd45c88d2b852e4321f05a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2cbc154119cd45c88d2b852e4321f05a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49802ec785e4b7a0fb6d24950df957f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49802ec785e4b7a0fb6d24950df957f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/08f32e97a26d63a9fb00d0911b489c1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/08f32e97a26d63a9fb00d0911b489c1b/AndroidManifest.xml:20:5-44
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/d21ea564284cfbb66eedabd2a7974622/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/laptop/Desktop/WaterWize-master/WaterWize-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/6eeff0c78e7997ff98b30fc1dda73cc7/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/bc99f060cdeba362f7346efee8fcabba/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/1472521ae6126db6d3b4b55853abe9b4/AndroidManifest.xml:30:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8034a83fddafbb8835944176d1a7920a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/laptop/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ccd4f4742c0a6682492da2a4acbd0ab0/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] /home/laptop/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2eac35a7f332bc0d746bd6785f774454/AndroidManifest.xml:24:13-51

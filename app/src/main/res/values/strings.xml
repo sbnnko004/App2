@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WaterUsageDiary</string>
+    <string name="CalcLauncher">Calculator_Launcher</string>
+    <string name="List_of_Entries">Diary Entries</string>
+    <string name="Total_water_consumed">Total Water Consumed: </string>
+    <string name="Average_Per_Day">Average Water Consumed a Day: </string>
+    <string name="Calculator">Calculator Page</string>
+    <string name="ViewText1">Hello!! :)</string>
+    <string name="textview">Shower</string>
+    <string name="secondcategory">Toilet</string>
+    <string name="amountHint">Amount in <b>L</b>itres</string>
+    <string name="laundry_textview">Laundry</string>
+    <string name="cooking_textview">Cooking</string>
+    <string name="Other_view">Other</string>
+    <string name="SaveImageButton">Save</string>
+    <string name="dayTotal">Total : </string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+</resources>
